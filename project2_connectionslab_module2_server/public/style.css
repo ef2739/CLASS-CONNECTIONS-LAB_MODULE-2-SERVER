@@ -1,0 +1,234 @@
+body {
+    /* background-color: greenyellow; */
+    font-family: monospace;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+
+#intlab-bttn{
+    width: 100px;
+    /* Larghezza uguale all'altezza per formare un quadrato */
+    height: 100px;
+    /* Altezza uguale alla larghezza per formare un quadrato */
+    border-radius: 50%;
+    /* Rende gli angoli arrotondati al 50% per creare un cerchio */
+    background-color: grey;
+    /* Colore di sfondo del bottone */
+    color: white;
+    /* Colore del testo */
+    border: none;
+    /* Rimuove il bordo predefinito */
+    cursor: pointer;
+    /* Cambia il cursore in un puntatore al passaggio del mouse */
+    font-size: 0.7rem;
+    /* Dimensione del testo */
+    display: flex;
+    /* Per centrare il testo */
+    justify-content: center;
+    /* Allinea il testo orizzontalmente */
+    align-items: center;
+  
+}
+
+
+
+#expmak-bttn{
+    width: 100px;
+    /* Larghezza uguale all'altezza per formare un quadrato */
+    height: 100px;
+    /* Altezza uguale alla larghezza per formare un quadrato */
+    border-radius: 50%;
+    /* Rende gli angoli arrotondati al 50% per creare un cerchio */
+    background-color: grey;
+    /* Colore di sfondo del bottone */
+    color: white;
+    /* Colore del testo */
+    border: none;
+    /* Rimuove il bordo predefinito */
+    cursor: pointer;
+    /* Cambia il cursore in un puntatore al passaggio del mouse */
+    font-size: 0.7rem;
+    /* Dimensione del testo */
+    display: flex;
+    /* Per centrare il testo */
+    justify-content: center;
+    /* Allinea il testo orizzontalmente */
+    align-items: center;
+    /* Allinea il testo verticalmente */
+  
+}
+
+
+
+
+#ccc-bttn{
+    width: 100px;
+    /* Larghezza uguale all'altezza per formare un quadrato */
+    height: 100px;
+    /* Altezza uguale alla larghezza per formare un quadrato */
+    border-radius: 50%;
+    /* Rende gli angoli arrotondati al 50% per creare un cerchio */
+    background-color: grey;
+    /* Colore di sfondo del bottone */
+    color: white;
+    /* Colore del testo */
+    border: none;
+    /* Rimuove il bordo predefinito */
+    cursor: pointer;
+    /* Cambia il cursore in un puntatore al passaggio del mouse */
+    font-size: 0.7rem;
+    /* Dimensione del testo */
+    display: flex;
+    /* Per centrare il testo */
+    justify-content: center;
+    /* Allinea il testo orizzontalmente */
+    align-items: center;
+    /* Allinea il testo verticalmente */
+  
+}
+
+
+#convny-bttn{
+    width: 100px;
+    /* Larghezza uguale all'altezza per formare un quadrato */
+    height: 100px;
+    /* Altezza uguale alla larghezza per formare un quadrato */
+    border-radius: 50%;
+    /* Rende gli angoli arrotondati al 50% per creare un cerchio */
+    background-color: grey;
+    /* Colore di sfondo del bottone */
+    color: white;
+    /* Colore del testo */
+    border: none;
+    /* Rimuove il bordo predefinito */
+    cursor: pointer;
+    /* Cambia il cursore in un puntatore al passaggio del mouse */
+    font-size: 0.7rem;
+    /* Dimensione del testo */
+    display: flex;
+    /* Per centrare il testo */
+    justify-content: center;
+    /* Allinea il testo orizzontalmente */
+    align-items: center;
+ 
+}
+
+
+#crcod-bttn{
+    width: 100px;
+    /* Larghezza uguale all'altezza per formare un quadrato */
+    height: 100px;
+    /* Altezza uguale alla larghezza per formare un quadrato */
+    border-radius: 50%;
+    /* Rende gli angoli arrotondati al 50% per creare un cerchio */
+    background-color: grey;
+    /* Colore di sfondo del bottone */
+    color: white;
+    /* Colore del testo */
+    border: none;
+    /* Rimuove il bordo predefinito */
+    cursor: pointer;
+    /* Cambia il cursore in un puntatore al passaggio del mouse */
+    font-size: 0.7rem;
+    /* Dimensione del testo */
+    display: flex;
+    /* Per centrare il testo */
+    justify-content: center;
+    /* Allinea il testo orizzontalmente */
+    align-items: center;
+  
+}
+
+
+
+
+#conlab-bttn{
+    width: 100px;
+    /* Larghezza uguale all'altezza per formare un quadrato */
+    height: 100px;
+    /* Altezza uguale alla larghezza per formare un quadrato */
+    border-radius: 50%;
+    /* Rende gli angoli arrotondati al 50% per creare un cerchio */
+    background-color: grey;
+    /* Colore di sfondo del bottone */
+    color: white;
+    /* Colore del testo */
+    border: none;
+    /* Rimuove il bordo predefinito */
+    cursor: pointer;
+    /* Cambia il cursore in un puntatore al passaggio del mouse */
+    font-size: 0.7rem;
+    /* Dimensione del testo */
+    display: flex;
+    /* Per centrare il testo */
+    justify-content: center;
+    /* Allinea il testo orizzontalmente */
+    align-items: center;
+  
+}
+
+
+#critex-bttn{
+    width: 100px;
+    /* Larghezza uguale all'altezza per formare un quadrato */
+    height: 100px;
+    /* Altezza uguale alla larghezza per formare un quadrato */
+    border-radius: 50%;
+    /* Rende gli angoli arrotondati al 50% per creare un cerchio */
+    background-color: grey;
+    /* Colore di sfondo del bottone */
+    color: white;
+    /* Colore del testo */
+    border: none;
+    /* Rimuove il bordo predefinito */
+    cursor: pointer;
+    /* Cambia il cursore in un puntatore al passaggio del mouse */
+    font-size: 0.7rem;
+    /* Dimensione del testo */
+    display: flex;
+    /* Per centrare il testo */
+    justify-content: center;
+    /* Allinea il testo orizzontalmente */
+    align-items: center;
+   
+}
+
+
+
+.voting-feed {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.chat-box-msgs {
+    flex-direction: column;
+    align-items: right;
+    width: 50%;
+}
+
+
+
+.chat-header {
+    margin: 10%;
+    font-size: 24px;
+    text-align: center;
+}
+
+.chat-box {
+    border: 2px solid black;
+    width: 50%;
+    height: 300px;
+    padding-left: 5px;
+    overflow: auto;
+}
+
+p {
+    overflow-wrap: break-word;
+}

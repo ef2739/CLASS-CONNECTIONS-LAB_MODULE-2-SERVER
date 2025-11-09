@@ -1,0 +1,46 @@
+    <!-- PART 1: REGISTRATION -->
+    
+    <!DOCTYPE html>
+    <html>
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+
+    <body>
+
+        <h1>REGISTRATION</h1>
+
+
+        <!-- 1a. create a text box for username (to be shown by us, not to other users) -->
+
+        <label for="username">USERNAME</label>
+        <input type="text" id="username" name="username"><br><br>
+
+
+        <!-- 1a. create a selection box with cohort emojis -->
+
+        <label for="cohorts">cohort</label>
+        <select name="cohort" id="cohort">
+            <option value="avocado">&#x1F951</option>
+            <option value="banana">&#127820</option>
+            <option value="c-food">C-FOOD</option>
+            <option value="dragonfruit">&#128009</option>
+            <!-- <option value="edamame">&#x1fadb</option> -->
+            <option value="edamame">&#x1F7E2</option>
+            <option value="fungi">&#127812</option>
+        </select>
+
+        <button id="submit">submit
+            <link rel="index" href="public/index.html">
+        </button>
+
+
+    <!-- load the socket.io library -->
+    <script type="text/javascript" src="/socket.io/socket.io.js"></script>
+    <script src="app1.js"></script>
+
+    </body>
+
+    </html>
